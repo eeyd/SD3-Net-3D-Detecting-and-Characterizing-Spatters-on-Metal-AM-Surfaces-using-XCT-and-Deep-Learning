@@ -18,7 +18,8 @@ SD3-Net includes:
 
 - **SD3-Net/**
   - **sd3net/** — Model architecture and network components  
-    - `model.py` — SD3-Net architecture  
+    - `model.py` — SD3-Net architecture
+    - best_sd3net.pth` — Best model weights, selected based on the validation dataset.
   - **utils/** — Data loading, preprocessing, and evaluation tools  
     - `dataloader.py`  
     - `preprocess.py`  
