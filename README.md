@@ -19,8 +19,6 @@ SD3-Net includes:
 - **SD3-Net/**
   - **sd3net/** — Model architecture and network components  
     - `model.py` — SD3-Net architecture  
-    - **layers/** — Custom 3D layers and modules  
-    - **loss/** — Dice, Focal, and hybrid loss functions  
   - **utils/** — Data loading, preprocessing, and evaluation tools  
     - `dataloader.py`  
     - `preprocess.py`  
