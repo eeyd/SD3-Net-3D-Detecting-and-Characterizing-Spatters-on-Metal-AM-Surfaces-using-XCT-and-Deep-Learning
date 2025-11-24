@@ -7,11 +7,11 @@ This repository contains the implementation of **SD3-Net**, a 3D deep learning f
 
 ## 🔍 **Overview**
 
-SD3-Net enables:
-- 3D voxel-level spatter detection  
-- Patch-based training for highly imbalanced voxel distributions  
-- Integration of XCT and deep learning for internal surface inspection  
-- High-resolution segmentation of spatter particles in additively manufactured SS316L components
+SD3-Net includes:
+- 3D spatter particle dataset and labelling
+- 3D Volumetric patch classification
+- 3D voxel-level spatter detection and segmentation  
+- XCT and 3D deep learning pipeline for spatter detection
 
 ---
 
