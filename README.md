@@ -12,7 +12,6 @@ SD3-Net includes:
 - 3D Volumetric patch classification
 - 3D voxel-level spatter detection and segmentation  
 - XCT and 3D deep learning pipeline for spatter detection
-
 ---
 
 ## 📦 **Repository Structure**
