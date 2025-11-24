@@ -1,4 +1,4 @@
-# SD3-Net: 3D Deep Learning for Spatter Detection in Metal Additive Manufacturing
+# SD3-Net: 3D Detecting and Characterizing Spatter Particles on Metal Additively Manufactured Surfaces using X-Ray Computed Tomography and Deep Learning
 
 This repository contains the implementation of **SD3-Net**, a 3D deep learning framework designed for spatter-particle detection using **X-ray Computed Tomography (XCT)** volumetric data. The method bridges XCT-based metrology with data-driven analysis for quality assurance in metal additive manufacturing (AM).
 
