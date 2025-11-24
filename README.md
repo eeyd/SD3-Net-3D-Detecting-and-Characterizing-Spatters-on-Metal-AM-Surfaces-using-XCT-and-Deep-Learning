@@ -30,7 +30,7 @@ SD3-Net includes:
     - `infer.py`  
   - **configs/** — YAML configuration files  
     - `train.yaml`  
-  - **data/** — Placeholder for dataset (released upon approval)  
+  - **data/** — 3D spatter data and labelling
   - **results/** — Sample outputs and visualizations  
   - `requirements.txt` — Python dependencies  
   - `README.md` — Project documentation  
