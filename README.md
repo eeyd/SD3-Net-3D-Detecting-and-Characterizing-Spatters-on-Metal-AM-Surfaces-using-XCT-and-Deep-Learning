@@ -34,7 +34,7 @@ SD3-Net includes:
   - `requirements.txt` — Python dependencies  
   - `README.md` — Project documentation  
 
-## 3) Data Format:
+## 🖼️ **Data Format**
 
 - **Images:** 16-bit TIF format.
 
