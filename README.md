@@ -2,7 +2,7 @@
 
 This repository contains the implementation of **SD3-Net**, a 3D deep learning framework designed for spatter-particle detection using X-ray Computed Tomography (XCT) volumetric data. The method bridges XCT-based metrology with data-driven analysis for quality assurance in metal additive manufacturing (AM).
 
-> **Note:** As this project is supported by **Agency for Science, Technology and Research (A\*STAR)** and  **Industry Alignment Fund – Pre-Positioning Programme (IAF-PP)**, the release of model weights and datasets is subject to approval. They will be made available here once approved.
+> **Note:** As this project is supported by Agency for Science, Technology and Research (A\*STAR) and Industry Alignment Fund – Pre-Positioning Programme (IAF-PP), the release of model weights and datasets is subject to approval. They will be made available here once approved.
 ---
 
 ## 🔍 **Overview**
