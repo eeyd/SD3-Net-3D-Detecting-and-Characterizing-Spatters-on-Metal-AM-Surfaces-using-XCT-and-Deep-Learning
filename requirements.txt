@@ -1,0 +1,19 @@
+# Core deep learning & tensor operations
+torch>=2.0.0
+torchvision>=0.15.0
+
+# 3D data & numerical tools
+numpy>=1.23
+scipy>=1.10
+scikit-image>=0.20
+scikit-learn>=1.2
+pandas>=1.5
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+
+# preprocessing, utilities
+opencv-python>=4.7
+h5py>=3.8
